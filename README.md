@@ -1,56 +1,79 @@
+# Uygulamanın Ekran Görüntüleri
+
 Uygulamanın tüm ekranlarını aşağıda görebilirsiniz:
 
-🏠 Ana Ekranlar
-Hoş Geldiniz Ekranı
-https://Screenshot_20251022_203301.png
+---
+
+## 🏠 Ana Ekranlar
+
+### Hoş Geldiniz Ekranı
 Kullanıcıları karşılayan sıcak arayüz
 
-Ana Sayfa / Haber Akışı
-https://Screenshot_20251022_202921.png
+![Hoş Geldiniz Ekranı](https://Screenshot_20251022_203301.png)
+
+### Ana Sayfa / Haber Akışı
 Güncel eğitim haberleri ve navigasyon menüsü
 
-Notlarım Ekranı
-https://Screenshot_20251022_202829.png
+![Ana Sayfa / Haber Akışı](https://Screenshot_20251022_202921.png)
+
+### Notlarım Ekranı
 Kullanıcının tüm notlarını listeleyen ana ekran
 
-👤 Kullanıcı İşlemleri
-Giriş Yap Ekranı
-https://Screenshot_20251022_203352.png
+![Notlarım Ekranı](https://Screenshot_20251022_202829.png)
+
+---
+
+## 👤 Kullanıcı İşlemleri
+
+### Giriş Yap Ekranı
 Email ve şifre ile giriş sayfası
 
-Kayıt Ol Ekranı
-https://Screenshot_20251022_203402.png
+![Giriş Yap Ekranı](https://Screenshot_20251022_203352.png)
+
+### Kayıt Ol Ekranı
 Yeni kullanıcı kayıt formu
 
-Profil Oluşturma
-https://Screenshot_20251022_203340.png
+![Kayıt Ol Ekranı](https://Screenshot_20251022_203402.png)
+
+### Profil Oluşturma
 Kullanıcı özelliklerini seçme ekranı
 
-Profil Özelleştirme
-https://Screenshot_20251022_203309.png
+![Profil Oluşturma](https://Screenshot_20251022_203340.png)
+
+### Profil Özelleştirme
 Profil kişiselleştirme arayüzü
 
-📝 İçerik Yönetimi
-Yeni Haber Ekle
-https://Screenshot_20251022_202951.png
+![Profil Özelleştirme](https://Screenshot_20251022_203309.png)
+
+---
+
+## 📝 İçerik Yönetimi
+
+### Yeni Haber Ekle
 Editörler için haber ekleme formu
 
-Not Ekleme Ekranı
-https://Screenshot_20251022_203021.png
+![Yeni Haber Ekle](https://Screenshot_20251022_202951.png)
+
+### Not Ekleme Ekranı
 Dosya yükleme ve hashtag seçme arayüzü
 
-⚙️ Ayarlar
-Ayarlar Menüsü
-https://Screenshot_20251022_203050.png
+![Not Ekleme Ekranı](https://Screenshot_20251022_203021.png)
+
+---
+
+## ⚙️ Ayarlar
+
+### Ayarlar Menüsü
 Kapsamlı ayar seçenekleri
 
-🎨 Tasarım Özellikleri
-Modern ve minimalist arayüz
+![Ayarlar Menüsü](https://Screenshot_20251022_203050.png)
 
-Kullanıcı dostu navigasyon
+---
 
-Responsive tasarım
+## 🎨 Tasarım Özellikleri
 
-Tutarlı renk paleti
-
-Sezgisel ikon kullanımı
+* Modern ve minimalist arayüz
+* Kullanıcı dostu navigasyon
+* Responsive tasarım
+* Tutarlı renk paleti
+* Sezgisel ikon kullanımı
