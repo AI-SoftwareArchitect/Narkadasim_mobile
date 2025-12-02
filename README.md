@@ -1,79 +1,67 @@
-# Uygulamanın Ekran Görüntüleri
+🖼️ Uygulamanın Ekran Görüntüleri (Küçültülmüş)
+Uygulamanın tüm ekranlarını, daha estetik bir sunum için boyutları küçültülmüş olarak aşağıda görebilirsiniz:
 
-Uygulamanın tüm ekranlarını aşağıda görebilirsiniz:
-
----
-
-## 🏠 Ana Ekranlar
-
-### Hoş Geldiniz Ekranı
+🏠 Ana Ekranlar
+Hoş Geldiniz Ekranı
 Kullanıcıları karşılayan sıcak arayüz
 
-![Hoş Geldiniz Ekranı](Screenshot_20251022_203301.png)
+<img src="Screenshot_20251022_203301.png" alt="Hoş Geldiniz Ekranı" width="400">
 
-### Ana Sayfa / Haber Akışı
+Ana Sayfa / Haber Akışı
 Güncel eğitim haberleri ve navigasyon menüsü
 
-![Ana Sayfa / Haber Akışı](Screenshot_20251022_202921.png)
+<img src="Screenshot_20251022_202921.png" alt="Ana Sayfa / Haber Akışı" width="400">
 
-### Notlarım Ekranı
+Notlarım Ekranı
 Kullanıcının tüm notlarını listeleyen ana ekran
 
-![Notlarım Ekranı](Screenshot_20251022_202829.png)
+<img src="Screenshot_20251022_202829.png" alt="Notlarım Ekranı" width="400">
 
----
-
-## 👤 Kullanıcı İşlemleri
-
-### Giriş Yap Ekranı
+👤 Kullanıcı İşlemleri
+Giriş Yap Ekranı
 Email ve şifre ile giriş sayfası
 
-![Giriş Yap Ekranı](Screenshot_20251022_203352.png)
+<img src="Screenshot_20251022_203352.png" alt="Giriş Yap Ekranı" width="400">
 
-### Kayıt Ol Ekranı
+Kayıt Ol Ekranı
 Yeni kullanıcı kayıt formu
 
-![Kayıt Ol Ekranı](Screenshot_20251022_203402.png)
+<img src="Screenshot_20251022_203402.png" alt="Kayıt Ol Ekranı" width="400">
 
-### Profil Oluşturma
+Profil Oluşturma
 Kullanıcı özelliklerini seçme ekranı
 
-![Profil Oluşturma](Screenshot_20251022_203340.png)
+<img src="Screenshot_20251022_203340.png" alt="Profil Oluşturma" width="400">
 
-### Profil Özelleştirme
+Profil Özelleştirme
 Profil kişiselleştirme arayüzü
 
-![Profil Özelleştirme](Screenshot_20251022_203309.png)
+<img src="Screenshot_20251022_203309.png" alt="Profil Özelleştirme" width="400">
 
----
-
-## 📝 İçerik Yönetimi
-
-### Yeni Haber Ekle
+📝 İçerik Yönetimi
+Yeni Haber Ekle
 Editörler için haber ekleme formu
 
-![Yeni Haber Ekle](Screenshot_20251022_202951.png)
+<img src="Screenshot_20251022_202951.png" alt="Yeni Haber Ekle" width="400">
 
-### Not Ekleme Ekranı
+Not Ekleme Ekranı
 Dosya yükleme ve hashtag seçme arayüzü
 
-![Not Ekleme Ekranı](Screenshot_20251022_203021.png)
+<img src="Screenshot_20251022_203021.png" alt="Not Ekleme Ekranı" width="400">
 
----
-
-## ⚙️ Ayarlar
-
-### Ayarlar Menüsü
+⚙️ Ayarlar
+Ayarlar Menüsü
 Kapsamlı ayar seçenekleri
 
-![Ayarlar Menüsü](Screenshot_20251022_203050.png)
+<img src="Screenshot_20251022_203050.png" alt="Ayarlar Menüsü" width="400">
 
----
+🎨 Tasarım Özellikleri
+Modern ve minimalist arayüz
 
-## 🎨 Tasarım Özellikleri
+Kullanıcı dostu navigasyon
 
-* Modern ve minimalist arayüz
-* Kullanıcı dostu navigasyon
-* Responsive tasarım
-* Tutarlı renk paleti
-* Sezgisel ikon kullanımı
+Responsive tasarım
+
+Tutarlı renk paleti
+
+Sezgisel ikon kullanımı
